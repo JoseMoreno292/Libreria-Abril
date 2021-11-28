@@ -4,7 +4,7 @@ Este proyecto es una pequeña librería online, llamada "Librería Abril". Es un
 carrito de compras, inventario y catálogo, además de comprar.
 
 Los desarrolladores de este proyecto fueron Danilo Fernando Abril León, José Luis Moreno Meza, José Manuel Navarro Noriega
-y Kevin Hmberto Urquijo Luzanía.
+y Kevin Humberto Urquijo Luzanía.
 
 Módulos hechos por Danilo Abril:
 CarritoDeCompras
@@ -26,7 +26,7 @@ modificarCatalogo
 verCatalogo
 
 Modulo hecho por Kevin Urquijo:
-comprarLigro
+comprarLibro
 
 Fueron algunas las dificultades que surgieron al momento de desarrollar nuestro proyecto, la mayoría de ellas fueron causadas por el 
 trabajo asíncrono porque obstaculiza las modificaciones al software. Otro problema fue que no siempre teníamos la misma disponibilidad, 
